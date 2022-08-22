@@ -1,0 +1,13 @@
+{
+  "name": "cocomo-calculator",
+  "version": "1.0.0",
+  "description": "Calculate needed man-hour for projects with COCOMO method.",
+  "main": "index.js",
+  "type": "module",
+  "author": "Arai Yuzuki",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^9.1.0"
+  }
+}
